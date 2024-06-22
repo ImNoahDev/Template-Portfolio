@@ -6,7 +6,7 @@ const AboutMe = () => {
       <h2 className="text-3xl font-bold mt-8">About Me</h2>
       <div className="h-1 w-16 bg-light-yellow my-2"></div>
       <p className="mt-4 text-gray-400">
-        I am a Computer Science and Engineering student in the United Kingdom. I have an interest in software and web development and have created programs to solve real world problems that I have encountered in my day-to-day life...
+        Insert an about me here. This is a great place to talk about your background, experience, and what you're looking to do next. You can also include a list of your skills or technologies you're familiar with.
       </p>
     </section>
   );

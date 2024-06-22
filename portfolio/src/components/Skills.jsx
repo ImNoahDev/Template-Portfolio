@@ -19,20 +19,20 @@ const Skills = () => {
       <div className="h-1 w-16 bg-light-yellow my-2"></div>
       <div className="grid grid-cols-2 gap-4 mt-4">
         <div className="bg-dark-card p-4 rounded-lg">
-          <h3 className="text-xl font-bold text-light-yellow">Engineering</h3>
-          <p className="text-gray-400 text-sm mt-2">High-quality technology based products and prototypes.</p>
+          <h3 className="text-xl font-bold text-light-yellow">Skill 1</h3>
+          <p className="text-gray-400 text-sm mt-2">Explain skill 1.</p>
         </div>
         <div className="bg-dark-card p-4 rounded-lg">
-          <h3 className="text-xl font-bold text-light-yellow">Web Development</h3>
-          <p className="text-gray-400 text-sm mt-2">High-quality development of sites at the professional level.</p>
+          <h3 className="text-xl font-bold text-light-yellow">Skill 2</h3>
+          <p className="text-gray-400 text-sm mt-2">Explain skill 2.</p>
         </div>
         <div className="bg-dark-card p-4 rounded-lg">
-          <h3 className="text-xl font-bold text-light-yellow">Software Development</h3>
-          <p className="text-gray-400 text-sm mt-2">Professional development of backend and shell-based apps.</p>
+          <h3 className="text-xl font-bold text-light-yellow">Skill 3</h3>
+          <p className="text-gray-400 text-sm mt-2">Explain skill 3.</p>
         </div>
         <div className="bg-dark-card p-4 rounded-lg">
-          <h3 className="text-xl font-bold text-light-yellow">Graphic Design</h3>
-          <p className="text-gray-400 text-sm mt-2">Professional graphic design and video editing with Adobe suite.</p>
+          <h3 className="text-xl font-bold text-light-yellow">Skill 4</h3>
+          <p className="text-gray-400 text-sm mt-2">Explain skill 4</p>
         </div>
       </div>
     </section>
